@@ -67,7 +67,10 @@ dengan menggunakan `go run main.go` pada terminal anda pada `http://localhost:80
 - Buka app di browser pada link `http://localhost:3000`
 
 - Jika file tidak terdownload secara keseluruhan lakukan input pada terminal
+    `npm install`
 
-    `n`
+- Setelah link dapat dibuka, masukkan file backgroun kartu seperti yang sudah disediakan pada [GDrive](https://drive.google.com/file/d/1exO_gxYNIX4IP1q68y47odWz6y762stt/view?usp=sharing)
+
+- Setelah memasukkan semua data pada form lalu klik generate dan kartu akan tergenerate
 
 
